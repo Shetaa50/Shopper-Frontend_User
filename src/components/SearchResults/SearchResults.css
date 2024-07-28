@@ -1,0 +1,11 @@
+.search-results{
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+    gap : 20px;
+}
+.search-results-dad h1 {
+    font-size: 30px;
+    text-align: center;
+}

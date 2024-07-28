@@ -1,0 +1,16 @@
+{
+    "navbar": {
+      "home": "Home",
+      "men": "Men",
+      "women": "Women",
+      "kids": "Kids",
+      "cart": "Cart",
+      "login": "Login/Signup"
+    },
+    "footer": {
+      "contact": "Contact Us",
+      "about": "About Us",
+      "privacy": "Privacy Policy"
+    }
+  }
+  
