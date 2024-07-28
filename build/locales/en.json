@@ -1,0 +1,105 @@
+{
+    "navbar": {
+      "home": "Home",
+      "men": "Men",
+      "women": "Women",
+      "kids": "Kids",
+      "cart": "Cart",
+      "login": "Login",
+      "logout": "Logout"
+    },
+    "footer": {
+      "company": "Company",
+      "products": "Products",
+      "offices": "Offices",
+      "about": "About",
+      "contact": "Contact",
+      "copyright": "Copyright © 2022 Shopper. All rights reserved."
+    },
+    "newCollections": {
+      "title": "New Collections"
+    },
+    "rounder": {
+      "newArrivals": "New arrivals only",
+      "new": "New",
+      "collections": "Collections",
+      "forEveryone": "For everyone",
+      "latestCollection": "Latest collection"
+    },
+    "popular": {
+      "title": "Popular in women"
+    },
+    "offers": {
+      "exclusives": "Exclusives",
+      "offersForYou": "offers for you",
+      "bestsellersOnly": "only on bestsellers products",
+      "checkNow": "Check now!"
+    },
+    "newsletter": {
+      "getOffers": "Get Exclusive Offers On Your Email",
+      "subscribe": "Subscribe to our newsletter and stay updated",
+      "placeholder": "Your Email ID",
+      "subscribeButton": "Subscribe!"
+    },
+    "cart": {
+      "products": "Products",
+      "title": "Title",
+      "price": "Price",
+      "quantity": "Quantity",
+      "total": "Total",
+      "remove": "Remove",
+      "subtotal": "Subtotal",
+      "shipping_free": "Shipping Free",
+      "free": "Free",
+      "proceed_to_checkout": "Proceed to Checkout!",
+      "promo_code_prompt": "If you have a promo code, enter here",
+      "promo_code": "Promo Code",
+      "submit": "Submit"
+    },
+    "breadcrumb": {
+          "home": "Home",
+          "shop": "Shop"
+      },
+    "categories": {
+          "men": "Men",
+          "women": "Women",
+          "kids": "Kids"
+      },
+      "shopCategory": {
+        "showing": "Showing",
+        "outOf": "out of",
+        "products": "products",
+        "sortBy": "Sort by",
+        "exploreMore": "Explore More!"
+    }
+    ,
+    "login":{
+      "Login": "Login",
+      "Signup": "Signup",
+      "signup":"Signup",
+      "Your Name": "Your Name",
+      "Your Email": "Your Email",
+      "Your Password": "Your Password",
+      "Continue": "Continue",
+      "Already have an account?": "Already have an account?",
+      "Login Here!": "Login Here!",
+      "Create an account?": "Create an account?",
+      "Sign Up Here!": "Sign Up Here!",
+      "By continuing, I agree to the Terms of Use and Privacy Policy": "By continuing, I agree to the Terms of Use and Privacy Policy"
+    },
+    "display": {
+    "staticDescription": "static paragraph description because I am too lazy to assign all of them",
+    "selectSize": "Select size",
+    "sizeS": "S",
+    "sizeM": "M",
+    "sizeL": "L",
+    "sizeXL": "XL",
+    "sizeXXL": "XXL",
+    "addToCart": "Add to cart",
+    "category": "category",
+    "tags": "Tags"
+    }
+  
+  
+      }
+  
