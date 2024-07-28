@@ -19,11 +19,11 @@ const ShopContextProvider = (props) => {
     const[cartItems,setCartItems] = useState(GetDefaultCart());
 
     useEffect(() => {
-        fetch("http://localhost:4000/allproducts")
+        fetch("https://shopper-backend-nine.vercel.app/allproducts")
         .then(response => response.json())
         .then(data => setAll_product(data))
         if(localStorage.getItem('authToken')) {
-            fetch('http://localhost:4000/getcartdata', {
+            fetch('https://shopper-backend-nine.vercel.app/getcartdata', {
                     method: 'POST',
                     headers: {
                         Accept: 'application/form-data',
@@ -41,7 +41,7 @@ const ShopContextProvider = (props) => {
     const AddToCart = (itemId)=>{
         setCartItems((prev)=>({...prev,[itemId]:prev[itemId]+1}));
         if (localStorage.getItem('authToken')) {
-            fetch('http://localhost:4000/addtocart', {
+            fetch('https://shopper-backend-nine.vercel.app/addtocart', {
                 method: 'POST',
                 headers: {
                     Accept: 'application/json',
@@ -70,7 +70,7 @@ const ShopContextProvider = (props) => {
      const removefromCart = (itemId)=>{
             setCartItems((prev)=>({...prev,[itemId]:prev[itemId]-1}));
             if(localStorage.getItem('authToken')){
-                fetch('http://localhost:4000/removefromcart', {
+                fetch('https://shopper-backend-nine.vercel.app/removefromcart', {
                     method: 'POST',
                     headers: {
                         Accept: 'application/json',
