@@ -1,0 +1,105 @@
+{
+    "navbar": {
+      "home": "الصفحة الرئيسية",
+      "men": "رجال",
+      "women": "نساء",
+      "kids": "أطفال",
+      "cart": "عربة التسوق",
+      "login": "تسجيل الدخول",
+      "logout": "تسجيل الخروج"
+    },
+      "footer": {
+        "company": "الشركة",
+        "products": "المنتجات",
+        "offices": "المكاتب",
+        "about": "حول",
+        "contact": "الاتصال",
+        "copyright": "حقوق الطبع والنشر © 2022 Shopper. جميع الحقوق محفوظة."
+      },
+      "newCollections": {
+        "title": "مجموعات جديدة"
+      },
+      "rounder": {
+        "newArrivals": "احدث المنتجات",
+        "new": "احدث",
+        "collections": "المجموعات",
+        "forEveryone": "للجميع",
+        "latestCollection": "أحدث مجموعة"
+      }, 
+      "popular": {
+        "title": "الشائع في النساء"
+      }, 
+      "offers": {
+        "exclusives": "العروض الحصرية",
+        "offersForYou": "عروض لك",
+        "bestsellersOnly": "فقط على المنتجات الأكثر مبيعًا",
+        "checkNow": "تحقق الآن!"
+      },
+      "newsletter": {
+        "getOffers": "احصل على عروض حصرية على بريدك الإلكتروني",
+        "subscribe": "اشترك في نشرتنا الإخبارية وابقَ على اطلاع",
+        "placeholder": "بريدك الإلكتروني",
+        "subscribeButton": "اشترك!"
+      },
+      
+    "cart": {
+      "products": "المنتجات",
+      "title": "العنوان",
+      "price": "السعر",
+      "quantity": "الكمية",
+      "total": "الإجمالي",
+      "remove": "إزالة",
+      "subtotal": "المجموع الفرعي",
+      "shipping_free": "الشحن مجاني",
+      "free": "مجانا",
+      "proceed_to_checkout": "تابع إلى الخروج!",
+      "promo_code_prompt": "إذا كان لديك رمز ترويجي، أدخله هنا",
+      "promo_code": "رمز ترويجي",
+      "submit": "إرسال"
+  },
+    "breadcrumb": {
+        "home": "الصفحة الرئيسية",
+        "shop": "المتجر"
+    },
+    "categories": {
+        "men": "رجال",
+        "women": "نساء",
+        "kids": "أطفال"
+    },  
+    "shopCategory": {
+      "showing": "عرض",
+      "outOf": "من أصل",
+      "products": "منتجات",
+      "sortBy": "ترتيب حسب",
+      "exploreMore": "استكشاف المزيد!"
+  }, 
+  "login": {
+  "Login": "تسجيل الدخول",
+  "Signup": "اشتراك",
+  "signup":"تسجيل حساب",
+  "Your Name": "اسمك",
+  "Your Email": "بريدك الالكتروني",
+  "Your Password": "كلمه السر",
+  "Continue": "استمر",
+  "Already have an account?": "هل لديك حساب؟",
+  "Login Here!": "تسجيل الدخول هنا!",
+  "Create an account?": "إنشاء حساب؟",
+  "Sign Up Here!": "اشتراك هنا!",
+  "By continuing, I agree to the Terms of Use and Privacy Policy": "بالمتابعة ، أوافق على شروط الاستخدام وسياسة الخصوصية"
+  },
+  "display": {
+    "staticDescription": "وصف الفقرة الثابت لأنني كسول جدًا لتعيين جميع منهم",
+    "selectSize": "حدد الحجم",
+    "sizeS": "ص",
+    "sizeM": "م",
+    "sizeL": "ل",
+    "sizeXL": "كبير جدا",
+    "sizeXXL": "كبير جدا جدا",
+    "addToCart": "أضف إلى السلة",
+    "category": "فئة",
+    "tags": "علامات"
+  }
+  }
+  
+
+  
