@@ -33,6 +33,7 @@ function App() {
         <Navbar changeLanguage={changeLanguage} />
         <Routes>
           <Route path='/' element={<Shop />} />
+          <Route path='/Shopper-Frontend_User' element={<Shop />} />
           <Route path='/men' element={<ShopCategory banner={men_banner} category="men" />} />
           <Route path='/women' element={<ShopCategory banner={women_banner} category="women" />} />
           <Route path='/kids' element={<ShopCategory banner={kid_banner} category="kid" />} />
