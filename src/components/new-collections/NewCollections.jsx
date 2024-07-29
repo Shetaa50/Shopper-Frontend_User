@@ -8,7 +8,7 @@ const NewCollections = () => {
   const { t } = useTranslation();
 
   useEffect(() => {
-    fetch('http://localhost:4000/newcollection')
+    fetch('https://shopper-backend-nine.vercel.app/newcollection')
       .then(response => response.json())
       .then((data) => setNew_collections(data));
   }, []);
