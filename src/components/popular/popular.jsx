@@ -8,7 +8,7 @@ const Popular = () => {
   const { t } = useTranslation();
 
   useEffect(() => {
-    fetch('http://localhost:4000/popular')
+    fetch('https://shopper-backend-nine.vercel.app/popular')
       .then((response) => response.json())
       .then((data) => setPopular(data));
   }, []);
