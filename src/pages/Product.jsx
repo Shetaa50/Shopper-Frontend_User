@@ -15,8 +15,8 @@ const Product = ()=>{
         <div>
             <Piece product={product}/>
             <Display product={product}/>
-            <DescriptionBox/>
-            <RelatedSection/>
+{/*             <DescriptionBox/>
+            <RelatedSection/> */}
         </div>
     )
 }
