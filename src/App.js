@@ -28,7 +28,7 @@ function App() {
   }, [i18n.language]);
 
   return (
-    <div>
+    <div> 
       <BrowserRouter>
         <Navbar changeLanguage={changeLanguage} />
         <Routes>
