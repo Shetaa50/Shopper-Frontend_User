@@ -15,7 +15,7 @@ const SearchResults = () => {
   useEffect(() => {
     const fetchSearchResults = async () => {
       try {
-        const response = await axios.get(`http://localhost:4000/searchproducts?name=${searchTerm}`);
+        const response = await axios.get(`https://shopper-backend-nine.vercel.app/searchproducts?name=${searchTerm}`);
         setResults(response.data);
       } catch (error) {
         console.error("Error fetching search results:", error);
